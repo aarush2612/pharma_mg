@@ -103,7 +103,7 @@ header.masthead {
   padding-bottom: calc(10rem - 4.5rem);
   height: 60vh;
   min-height: 30rem;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), url("../assets/webp/bg.webp");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), url("../assets/webp/bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
