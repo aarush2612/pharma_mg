@@ -1,4 +1,4 @@
 # Medical-Website
-Gynaecology Medical Website. <br>
-Base Language: English &amp; German/Slovakia <br>
-# Live Demo: https://gaia-klinik.com/
+Pharmaceuticals Medical Website. <br>
+Base Language: English
+# Live Demo: [https://aarush2612.github.io/pharma_mg/]
